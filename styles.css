@@ -50,3 +50,34 @@ nav
 	font-size: 26px;
 	font-style: italic;
 }
+
+.z{
+	border: 3px double black;
+	border-radius: 20px;
+	text-align: justify;
+	text-indent: 20px;
+	font-size: 1.2em;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+.uarr {
+	background-color: #9E784A;
+	font-size: 40px;
+	display: inline-block;
+	padding: 5px 0 15px;
+	border-radius: 50%;
+	position: fixed;
+	bottom: 20px;
+	right: 20px;
+}
+.strela  {
+	text-decoration: none;
+	color: #fff;
+	padding: 5px 23px 15px;
+	border-radius: 50%;
+}
+
+p{
+	text-indent: 20px;
+}
